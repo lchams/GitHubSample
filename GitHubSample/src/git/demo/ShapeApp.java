@@ -6,8 +6,8 @@ public class ShapeApp {
 		Shape shape = new Circle();
 		shape.drawShape();
 		
-		//shape = new Triangle();
-		//shape.drawShape();
+		shape = new Triangle();
+		shape.drawShape();
 	}
 
 }
